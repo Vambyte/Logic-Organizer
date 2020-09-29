@@ -1,0 +1,36 @@
+C:\Users\Gusta\Desktop\Logic\Logic\obj\Release\Logic.csprojAssemblyReference.cache
+C:\Users\Gusta\Desktop\Logic\Logic\obj\Release\Logic.Form1.resources
+C:\Users\Gusta\Desktop\Logic\Logic\obj\Release\Logic.Loading.resources
+C:\Users\Gusta\Desktop\Logic\Logic\obj\Release\Logic.Properties.Resources.resources
+C:\Users\Gusta\Desktop\Logic\Logic\obj\Release\Logic.csproj.GenerateResource.cache
+C:\Users\Gusta\Desktop\Logic\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Desktop\Logic\Logic\bin\Release\Logic Organizer.exe.config
+C:\Users\Gusta\Desktop\Logic\Logic\bin\Release\Logic Organizer.exe
+C:\Users\Gusta\Desktop\Logic\Logic\bin\Release\Logic Organizer.pdb
+C:\Users\Gusta\Desktop\Logic\Logic\obj\Release\Logic Organizer.exe
+C:\Users\Gusta\Desktop\Logic\Logic\obj\Release\Logic Organizer.pdb
+C:\Users\Gusta\Desktop\Logic\Logic\obj\Release\Logic.Form3.resources
+C:\Users\jonat\Desktop\Logic\Logic\bin\Release\Logic Organizer.exe.config
+C:\Users\jonat\Desktop\Logic\Logic\bin\Release\Logic Organizer.exe
+C:\Users\jonat\Desktop\Logic\Logic\bin\Release\Logic Organizer.pdb
+C:\Users\jonat\Desktop\Logic\Logic\obj\Release\Logic.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\Logic\Logic\obj\Release\Logic.Form1.resources
+C:\Users\jonat\Desktop\Logic\Logic\obj\Release\Logic.Loading.resources
+C:\Users\jonat\Desktop\Logic\Logic\obj\Release\Logic.Form3.resources
+C:\Users\jonat\Desktop\Logic\Logic\obj\Release\Logic.Properties.Resources.resources
+C:\Users\jonat\Desktop\Logic\Logic\obj\Release\Logic.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Logic\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Logic\Logic\obj\Release\Logic Organizer.exe
+C:\Users\jonat\Desktop\Logic\Logic\obj\Release\Logic Organizer.pdb
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\bin\Release\Logic Organizer.exe.config
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\bin\Release\Logic Organizer.exe
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\bin\Release\Logic Organizer.pdb
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\obj\Release\Logic.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\obj\Release\Logic.Form1.resources
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\obj\Release\Logic.Loading.resources
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\obj\Release\Logic.Form3.resources
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\obj\Release\Logic.Properties.Resources.resources
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\obj\Release\Logic.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\obj\Release\Logic.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\obj\Release\Logic Organizer.exe
+C:\Users\jonat\Desktop\Dev\Code\Projects\Logic\Logic\obj\Release\Logic Organizer.pdb
